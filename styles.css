@@ -26,8 +26,6 @@ body {
  .element {
     background-color:whitesmoke;
 }
-/*nav barr css*/
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -47,8 +45,6 @@ li a {
   padding: 30px 16px;
   text-decoration: none;
 }
-
-/* Change the link color to on hover */
 li a:hover {
   background-color: blue ;
 }
